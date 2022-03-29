@@ -1,0 +1,105 @@
+/* Extra small devices (Mobile, less than 480px) */ 
+@media only screen and (min-device-width : 320px) and (max-device-width : 640px) {
+
+.postImage {
+  height: auto;
+  width: 100%;
+}
+
+.postImage img{
+  height: auto;
+  width: 100%; 
+}
+
+.singleresponsive{
+  font-size: 12px
+}
+
+
+/* dashboard advertise*/
+.top-banner {
+  height: auto;
+  width: 100%;
+}
+.header-banner {
+  height: auto;
+  width: 100%;
+}
+.PostImage_Gif_1 {
+  height: auto;
+  width:100%;
+}
+.PostImage_Gif_2 {
+  height: auto;
+  width: 100%;
+}
+
+
+.PostImage_1{
+	height:200px;
+	width: 100%
+}
+.PostImage_2{
+	height:200px;
+	width: 100%
+}
+.PostImage_3{
+	height:200px;
+	width: 100%
+}
+.PostImage_4{
+	height:200px;
+	width: 100%
+}
+
+.SaidarImage_1{
+	height:300px;
+	width: 100%
+}
+.SaidarImage_2{
+	height:300px;
+	width: 100%
+}
+.SaidarImage_3{
+	height:300px;
+	width: 100%
+}
+.SaidarImage_4{
+	height:300px;
+	width: 100%
+}
+.SaidarImage_5{
+	height:300px;
+	width: 100%
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+/**/
+/*@media only screen and (min-device-width : px) and (max-device-width : px) {
+
+
+
+}*/
+
+
+/* Desktops and laptops */
+@media only screen  and (min-width : 1224px) {
+
+
+}
